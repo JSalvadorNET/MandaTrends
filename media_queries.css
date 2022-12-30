@@ -1,0 +1,471 @@
+
+
+
+
+@media(max-height: 1080px) and (min-height: 863px){
+
+.conteudo-bg{
+
+	background-color: #ffffff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 2400px;
+	width: 79vw;
+	padding-top: 50px;}
+
+
+.cabecalho{
+
+		height: 322px;
+	}
+
+.mandatrends-logo{
+		padding-left: 90px;
+		width: 25%;
+	}
+
+.bolinhas-vetor{
+
+		width: 10%;
+		position: relative;
+		margin-left: 360px;
+		padding-top: 260px;
+		object-fit: cover;
+	}
+
+.setas-vetor{
+
+		margin-left:550px;
+		width: 10%;
+	}
+
+.mulher-vetor{
+
+		width: 30%;
+		position: absolute;
+		margin-left: 500px;
+		padding-top: 130px;
+	}
+
+.linhas-vetor{
+
+		width: 30%;
+		z-index: 1;
+		display: flex;
+		position: absolute;
+		left: -13.5%;
+		padding-top: 30px;
+	}
+
+.tri-vetor{
+
+	width:6%;
+	display: flex;
+	position: absolute;
+	padding-left: 1420px;}
+
+.t1, .t2{
+
+		display: flex;
+		position: absolute;
+		text-align: right;
+		padding-right: 70px;
+		padding-left: 1070px;
+		padding-top: 70px;
+		color: #fff;
+		font-size: 40px;
+		line-height: 45px;
+		font-weight: bold;
+	}
+
+.t2{
+	padding-top: 225px;
+	font-size: 21px;
+	padding-left:1350px ;
+	text-align: right;}
+
+.zigzag-vetor{
+
+	width:10%;
+	display: flex;
+	position: absolute;
+	margin-left: 1300px;
+	padding-top: 220px;}
+
+.imgpr-desc  h1{
+  	
+  	padding-top: 830px;
+  	padding-left: 135px;
+  	font-size: 50px;}
+
+.desc{
+
+  	margin-top: 25px;
+  	line-height: 15px;
+  	padding-left: 140px;
+  	color: #74787a;
+  }
+
+.fonte{
+
+  	color: #b2b2b2;
+  	font-size: 20px;
+  	margin-top: 40px;
+  	padding-left: 140px;
+
+  }
+
+.line1{
+
+	width: 35%;
+	margin-left: 140px;
+	margin-top: 20px;
+	padding-top: 5px;
+	margin-bottom: 40px;
+	background-image: linear-gradient( to right, #e5245a, #6c5ba3 );}
+
+.title2{
+
+	padding-top: 490px;
+	  	font-size: 30px;
+	  	line-height: 35px;}
+
+.img2-title{
+
+	  		margin-left: -150px;
+	  	}
+
+.fonte2{
+
+	  	color: #b2b2b2;
+  	font-size: 17px;
+  	margin-top: 30px;
+  	padding-left: 605px;}
+
+.img-sec{
+
+	width: 31%;
+
+display: inline-block;
+margin-top: 20px;
+text-align: center;
+position: absolute;}
+
+.title2{
+
+	padding-top: 475px;
+	  	font-size: 30px;
+	  	line-height: 35px;}
+
+.logo-rodape{
+width: 30%;
+height: 180%;
+ margin-left: auto;
+margin-right: auto;
+margin-bottom: 0;
+left: 0;
+right: 0;
+display: block;
+margin-top: -50px;
+text-align: center;
+position: absolute;}
+
+.rodape-note{
+	color: #646869;
+	text-align: center;
+	margin-top: 50px;
+	line-height: 25px;}
+
+}
+
+
+
+@media(max-height: 864px) and (min-height: 989px){
+
+	.cabecalho{
+
+		height: 260px;
+	}
+
+	.mandatrends-logo{
+
+		width: 60%;
+		padding-left: 100px;
+	}}
+
+
+@media(max-height: 900px) and (min-height: 767px){
+
+	.cabecalho{
+
+		height: 260px;
+	}
+
+	.mandatrends-logo{
+		width: 25%;
+		padding-left: 60px;
+		padding-top: 30px;
+	}
+
+	.bolinhas-vetor{
+
+		width: 15%;
+		position: relative;
+		margin-left: 360px;
+		padding-top: 175px;
+		object-fit: cover;
+	}
+
+  }
+
+
+
+@media(max-height: 768px) and (min-height: 719px){
+
+	.cabecalho{
+
+		height: 232px;
+	}
+	.mandatrends-logo{
+
+		width: 25%;
+	}}
+
+
+
+
+@media(max-height: 720px){
+
+.cabecalho{
+
+		height: 218px;
+	}
+
+.mandatrends-logo{
+
+		width: 60%;
+		padding-left: 20px;
+		padding-top: 30px;
+	}
+
+.bolinhas-vetor{
+
+		margin-left: 250px;
+		padding-top: 120px;
+		width: 30%;
+	}
+
+.mulher-vetor{
+		display: none;
+	}
+
+.setas-vetor{
+		display: none;
+	}
+
+.linhas-vetor{
+		width: 80%;
+		left: -40.5%;
+	}
+
+.t1, .t2{
+
+		display: flex;
+		position: absolute;
+		text-align: left;
+		padding-right: 70px;
+		padding-top: 165px;
+		color: #fff;
+		font-size: 80%;
+		line-height: 15px;
+		padding-left: 30px;
+		z-index: 30;
+		font-weight: bold;
+	}
+
+.t2{
+	padding-top: 25px;
+	font-size: 90%;
+	padding-left:25px ;
+	text-align: right;
+	text-transform: uppercase;}
+
+.t1{
+	display: none;}
+
+.tri-vetor{
+
+	display: none;}
+
+.zigzag-vetor{
+
+	display: none;}
+
+.img-principal{
+
+	width: 70%;
+  margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+margin-top: 20px;
+text-align: center;
+position: absolute;
+  }
+
+.imgpr-desc  h1{
+  	font-size: 20px;
+  	padding-left: 30px;
+  	padding-top: 230px;}
+
+.desc{
+
+  	margin-top: 15px;
+  	font-size: 13px;
+  	line-height: 15px;
+  	padding-left: 30px;
+  	color: #74787a;
+  	width: 85%;
+  }
+
+.fonte, .fonte2{
+
+  	color: #b2b2b2;
+  	font-size: 10px;
+  	margin-top: 20px;
+  	padding-left: 30px;}
+
+.line1, .line2, .line3{
+
+	width: 35%;
+	margin-left: 30px;
+	margin-top: 20px;
+	padding-top: 5px;}
+
+.img-sec{
+
+	width: 65%;
+  margin-left: auto;
+margin-right: auto;
+margin-bottom: 0;
+left: 0;
+right: 0;
+display: block;
+margin-top: -20px;
+text-align: center;
+position: absolute;}
+
+.title2{
+
+	font-size: 20px;
+  	padding-top: 190px;
+  	margin-left: 35px;
+  	line-height: 20px;}
+
+.desc2{
+
+display: block;
+	margin-top: 15px;
+  	font-size: 13px;
+  	line-height: 15px;
+  	color: #74787a;
+  	text-align: justify;
+  	width: 285px;
+  	line-height: 16px;}
+
+.rodape{
+
+
+	background-color: #fc4c02;
+	display: flex;
+	position: relative;
+	width:100%; 
+	height: 70px;
+	margin-top: 80px;}
+
+.logo-rodape{
+width: 60%;
+height: 190%;
+ margin-left: auto;
+margin-right: auto;
+margin-bottom: 0;
+left: 0;
+right: 0;
+display: block;
+margin-top: -30px;
+text-align: center;
+position: absolute;}
+
+.rodape-note{
+	color: #646869;
+	text-align: center;
+	margin-top: 20px;
+	line-height: 17px;
+font-size: 10px}
+
+.conteudo-bg{
+
+	background-color: #ffffff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1600px;
+	width: 79vw;
+	padding-top: 50px;}}}
+
+@media(max-height: 719px) and (min-height: 640px){
+
+	.cabecalho{
+
+		height: 170px;
+	}
+
+	.mandatrends-logo{
+
+		width: 60%;
+		padding-left: 30px;
+		padding-top: 20px;
+	}
+
+
+	.mulher-vetor{
+		display: none;
+	}
+
+	.linhas-vetor{
+		width: 80%;
+		left: -40.5%;}
+
+		.t1, .t2{
+
+			display: flex;
+			position: absolute;
+			text-align: right;
+			padding-right: 70px;
+
+			padding-top: 50px;
+			color: #000;
+			font-size: 150%;
+			line-height: 30px;
+		}
+
+		.t2{
+			padding-top: 180px;
+			font-size: 100%;
+			text-align: right;]
+		}
+
+	.tri-vetor{
+
+	display: none;
+}
+
+.zigzag-vetor{
+
+	display: none;
+}
+
+
+	}
+
